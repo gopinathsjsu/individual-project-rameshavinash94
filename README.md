@@ -1,5 +1,5 @@
-# individual-project-rameshavinash94
+# FLIGHT BOOKING APPLICATION
 
-**LINK TO PROJECT REPORT:**
+## **LINK TO PROJECT REPORT:**
 
 https://github.com/gopinathsjsu/individual-project-rameshavinash94/blob/main/Avinash_Ramesh_CMPE202_Individual_project_Report.pdf
